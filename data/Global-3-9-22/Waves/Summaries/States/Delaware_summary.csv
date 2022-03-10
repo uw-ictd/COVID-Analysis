@@ -1,0 +1,5 @@
+Admin0,Admin1,Admin2,FIPS,Population,CaseCount,DeathCount,CasesPer100K,DeathsPerM,CFR
+"US","Delaware","Kent",10001,180786,49050,588,27131.53,3252.46,0.0120
+"US","Delaware","New Castle",10003,558753,143896,1281,25753.06,2292.61,0.0089
+"US","Delaware","Sussex",10005,234225,60114,779,25665.07,3325.86,0.0130
+"US","Delaware","Unassigned",90010,-1,910,0,0.00,0.00,0.0000

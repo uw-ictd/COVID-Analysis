@@ -1,0 +1,9 @@
+Admin0,Admin1,Admin2,FIPS,Population,CaseCount,DeathCount,CasesPer100K,DeathsPerM,CFR
+"Australia","Australian Capital Territory","",0,428099,42698,31,9973.86,72.41,0.0007
+"Australia","New South Wales","",0,8118000,1221699,1768,15049.26,217.79,0.0014
+"Australia","Northern Territory","",0,245599,31734,11,12921.06,44.79,0.0003
+"Australia","Queensland","",0,5115500,508627,400,9942.86,78.19,0.0008
+"Australia","South Australia","",0,1756500,126141,158,7181.38,89.95,0.0013
+"Australia","Tasmania","",0,535500,36372,23,6792.16,42.95,0.0006
+"Australia","Victoria","",0,6629900,999918,2323,15081.95,350.38,0.0023
+"Australia","Western Australia","",0,2630600,2401,10,91.27,3.80,0.0042
