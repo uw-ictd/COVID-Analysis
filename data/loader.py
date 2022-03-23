@@ -122,6 +122,10 @@ def get_united_states_case_and_death_time_series_data(county=True):
     deaths = __load_file(death_file_path)
     return cases, deaths
 
+def get_peak_data(region="UnitedStates", peak_num=4):
+    local_path = r'Global-3-9-22/Peak Sets//Peaks' + str(peak_num) + '/' + region + ".csv"
+    return __load_file(local_path)
+    
 
 def get_neighbor_map(country='USA', state='WA'):
     filepath = f'neighbor_map/{country}/{state}.json'
